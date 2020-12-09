@@ -32,7 +32,7 @@
       "joi-objectid": "^2.0.0",
       "jsonwebtoken": "^8.2.1",
       "moment": "^2.22.1",
-      "mongodb": "^3.0.0",
+      "mongodb": "^3.1.13",
       "morgan": "^1.9.0",
       "redis": "^2.8.0",
       "uuid": "^3.2.1"
